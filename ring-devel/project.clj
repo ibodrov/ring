@@ -1,4 +1,4 @@
-(defproject ring/ring-devel "1.1.1"
+(defproject org.clojars.ibodrov/ring-devel "1.1.1"
   :description "Ring development and debugging libraries."
   :url "https://github.com/ring-clojure/ring"
   :dependencies [[ring/ring-core "1.1.1"]
